@@ -110,7 +110,7 @@ This IC is capable to run 2 DC motor of upto 12V 1amp in both directions.
 It need 4 signals from Arduino like motor 1 Forward & reverse and motor 2 Forward & reverse
 
 
-## CUSTOM MADE PCB  ##
+## CUSTOM MADE SMT PCB FROM [JLCPCB.com](https://jlcpcb.com/IAT)  ##
 
 
 ![MVI_0035 00_00_54_04 Still006](https://user-images.githubusercontent.com/19898602/122680046-1395f500-d20b-11eb-8e64-093b111e5be5.jpg)
@@ -127,7 +127,7 @@ https://easyeda.com/editor#id=83c4ed4101c84bb68950179a24ab4322
 
 
 
-PCB is the heart of this project, I have design like all the components must be surface mount on PCB
+PCB is the heart of this project, I have design PCB like all the components must be surface mount on PCB
 so there is a big challenge is in front of me how to manage to buy different different components 
 on my own. it quite difficult to get them all in time.
 so i came to know about PCB + SMT service of [JLCPCB.com](https://jlcpcb.com/IAT) like [JLCPCB.com](https://jlcpcb.com/IAT) offering complete PCB with components 
@@ -135,6 +135,12 @@ solder on it. they have huge collection of components to choose from.
 this was so much help full for me it save my lots of time and money by using PCB + SMT service of [JLCPCB.com](https://jlcpcb.com/IAT)
 JLCPCB have some Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
  
+ 👉 Try PCBA service of JLCPCB.com/PCW and save your time and money, get PCB ready for project, 200K+ components in library of JLCPCB.com/PCW as well as 3rd party         parts to choose from. 
+    Assembly will support 10M+ parts from Digikey, mouser
+    
+👉 $27 valued New User coupons 
+
+👉 $24 SMT coupons every month
 
 ![Arduino remote control and OTA via ESP8266 and Vcon io_1](https://user-images.githubusercontent.com/19898602/135789676-a069db96-5fbe-42dd-9826-67a55b738fe9.gif)
 
