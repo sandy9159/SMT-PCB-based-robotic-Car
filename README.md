@@ -135,7 +135,7 @@ solder on it. they have huge collection of components to choose from.
 this was so much help full for me it save my lots of time and money by using PCB + SMT service of [JLCPCB.com](https://jlcpcb.com/IAT)
 JLCPCB have some Special offer: $2 for 1-4 Layer PCBs, free SMT assembly monthly
  
- 👉 Try PCBA service of JLCPCB.com/PCW and save your time and money, get PCB ready for project, 200K+ components in library of JLCPCB.com/PCW as well as 3rd party         parts to choose from. 
+ 👉 Try PCBA service of [JLCPCB.com](https://jlcpcb.com/IAT) and save your time and money, get PCB ready for project, 200K+ components in library of [JLCPCB.com](https://jlcpcb.com/IAT) as well as 3rd party         parts to choose from. 
     Assembly will support 10M+ parts from Digikey, mouser
     
 👉 $27 valued New User coupons 
